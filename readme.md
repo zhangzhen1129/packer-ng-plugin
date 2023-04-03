@@ -232,13 +232,6 @@ String channel = PackerNg.getChannel(Context)
 
 ------
 
-## 关于作者
-
-### 联系方式
-* Blog: <http://blog.mcxiaoke.com>
-* Github: <https://github.com/mcxiaoke>
-* Email: [packer-ng-plugin@mcxiaoke.com](mailto:packer-ng-plugin@mcxiaoke.com)
-
 ### 开源项目
 
 * Rx文档中文翻译: <https://github.com/mcxiaoke/RxDocs>
